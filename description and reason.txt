@@ -1,0 +1,8 @@
+Sydney, New South Wales, Australia
+https://www.openstreetmap.org/search?query=sydney#map=12/-33.8678/151.2073
+
+Description:
+Sydney is the state capital of New South Wales and the most populous city in Australia and Oceania. Located on Australia's east coast, the metropolis surrounds the world's largest natural harbour and sprawls about 70 km on its periphery towards the Blue Mountains to the west, Hawkesbury to the north and Macarthur to the south.
+
+Reasons why I chose Sydney:
+Originally, I wanted to choose the city where I lived---Guangzhou. So I downloaded the data of Guangzhou. But there were too many Chinese characters in them, which I thought would be complicated to deal with. So I chose Sydney, a city where English is the only official language and which I have visited.
